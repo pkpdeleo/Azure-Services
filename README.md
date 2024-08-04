@@ -31,7 +31,7 @@ Before running the code, ensure you have the following:
 
 If you would like to contribute to the project, please fork the repository and submit a pull request with your changes. Make sure to follow the project's coding style and guidelines.
 
-# License
+# License 📃
 
 This project is licensed under the MIT License - see the [LICENSE](https://opensource.org/license/mit) file for details.
 
