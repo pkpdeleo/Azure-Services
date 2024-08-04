@@ -1,7 +1,7 @@
 # Speech-to-Text Transcription and Profanity Filtering
 
-This project demonstrates how to use Azure Speech Services for transcribing speech to text in both Tamil and English.
-Additionally, it includes a Python script for filtering profanities from the transcribed text.
+This project demonstrates how to use Azure Speech Services for **transcribing speech to text in both Tamil and English**.
+Additionally, it includes a Python script for **filtering profanities** from the transcribed text.
 
 # Prerequisites
 
